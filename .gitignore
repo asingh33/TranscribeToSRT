@@ -1,0 +1,6 @@
+dontinclude
+*.txt
+__pycache__
+env
+*.json
+*.srt
